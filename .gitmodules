@@ -1,4 +1,4 @@
 [submodule "src/core"]
 	path = src/core
 	branch = master
-	url = https://github.com/github/adapt-contrib-core
+	url = https://github.com/wtechsas/adapt-contrib-core
