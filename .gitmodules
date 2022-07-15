@@ -1,5 +1,4 @@
 [submodule "src/core"]
 	path = src/core
 	branch = master
-	url = https://github.com/adaptlearning/adapt-contrib-core
- 	installBranch = v6.11.0
+	url = https://github.com/github/adapt-contrib-core
