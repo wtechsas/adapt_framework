@@ -4,7 +4,7 @@
         "adapt-contrib-text": "*",
         "adapt-contrib-narrative": "*",
         "adapt-contrib-media": "*",
-        "adapt-contrib-hotgraphic": "*",
+        "adapt-contrib-branching": "*",
         "adapt-contrib-blank": "*",
         "adapt-contrib-accordion": "*",
         "adapt-contrib-graphic": "*",
@@ -22,6 +22,8 @@
         "adapt-contrib-slider": "*",
         "adapt-contrib-spoor": "*",
         "adapt-contrib-bookmarking": "*",
-        "adapt-contrib-languagePicker": "*"
+        "adapt-contrib-languagePicker": "*",
+        "adapt-gtag": "*",
+        "adapt-notify-imagegrid": "*"
     }
 }
