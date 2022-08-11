@@ -24,6 +24,7 @@
         "adapt-contrib-bookmarking": "*",
         "adapt-contrib-languagePicker": "*",
         "adapt-gtag": "*",
-        "adapt-notify-imagegrid": "*"
+        "adapt-notify-imagegrid": "*",
+        "adapt-adapt-visua11y": "*"
     }
 }
