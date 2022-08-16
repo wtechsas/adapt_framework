@@ -25,6 +25,7 @@
         "adapt-contrib-languagePicker": "*",
         "adapt-gtag": "*",
         "adapt-notify-imagegrid": "*",
-        "adapt-visua11y": "*"
+        "adapt-visua11y": "*",
+        "adapt-linkItems": "*"
     }
 }
